@@ -1,0 +1,5 @@
+c:\publish\OtoGaleriUygulamasiG053.exe
+c:\publish\OtoGaleriUygulamasiG053.dll
+c:\publish\OtoGaleriUygulamasiG053.deps.json
+c:\publish\OtoGaleriUygulamasiG053.runtimeconfig.json
+c:\publish\OtoGaleriUygulamasiG053.pdb

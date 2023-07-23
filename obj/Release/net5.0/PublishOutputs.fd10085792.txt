@@ -1,0 +1,5 @@
+C:\Users\fikre\OneDrive\Desktop\özel - Kopya (2)\OtoGaleriUygulamasiG053(1)\bin\Release\net5.0\app.publish\OtoGaleriUygulamasiG053.exe
+C:\Users\fikre\OneDrive\Desktop\özel - Kopya (2)\OtoGaleriUygulamasiG053(1)\bin\Release\net5.0\app.publish\OtoGaleriUygulamasiG053.dll
+C:\Users\fikre\OneDrive\Desktop\özel - Kopya (2)\OtoGaleriUygulamasiG053(1)\bin\Release\net5.0\app.publish\OtoGaleriUygulamasiG053.deps.json
+C:\Users\fikre\OneDrive\Desktop\özel - Kopya (2)\OtoGaleriUygulamasiG053(1)\bin\Release\net5.0\app.publish\OtoGaleriUygulamasiG053.runtimeconfig.json
+C:\Users\fikre\OneDrive\Desktop\özel - Kopya (2)\OtoGaleriUygulamasiG053(1)\bin\Release\net5.0\app.publish\OtoGaleriUygulamasiG053.pdb
